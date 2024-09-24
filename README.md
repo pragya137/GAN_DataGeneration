@@ -1,5 +1,5 @@
 # GST Fraud Detection using cGAN
-This project uses a Conditional GAN (cGAN) to address class imbalance in a GST fraud detection dataset. The model generates synthetic data for the minority class (fraud cases) to improve classification performance.
+This notebook uses a Conditional GAN (cGAN) to address class imbalance in a GST fraud detection dataset. The model generates synthetic data for the minority class (fraud cases) to improve classification performance.
 
 ## File Description
 GAN_dataGeneration.ipynb: Jupyter Notebook containing the implementation of the cGAN model. It includes building the generator and discriminator networks, training the model, and generating new fraud samples.
